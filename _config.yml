@@ -1,6 +1,8 @@
 permalink   : /:categories/:year/:title/
 markdown    : kramdown
+redcarpet:
 highlighter : rouge
+extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 
 paginate: 2 #6
 comments: true
