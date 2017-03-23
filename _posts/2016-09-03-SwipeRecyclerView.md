@@ -1,6 +1,4 @@
-# SwipeRecyclerView
-    仿QQ侧滑的RecyclerView
-----------------------------------------------------------------------------
+# SwipeRecyclerView仿QQ侧滑的RecyclerView
 # 使用方法
 ### 1. AndroidStudio
     首先确保AndroidStudio对jcenter支持 （AndroidStudio v1.2以上默认使用jcenter，此处可以不用修改，只需修改Moudle的build.gradle即可）
@@ -18,7 +16,6 @@
     添加arr文件到libs
 [点击下载arr文件](http://pan.baidu.com/s/1c2JmJlA)
 
-------------------------------------------------------------------------------------
 # 示例代码
 ### Layout配置
 ```xml
